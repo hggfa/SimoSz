@@ -1,6 +1,6 @@
 token=NDI2MzMzMzQ1NzExMTI4NTk2.Dt1dFg.7jTO02wJ21nSNrkN2v_z8A5V7mE
 owner=419474365248438282 
 prefix=*
-game=alpha
+game=diha fkarek
 stayinchannel=true
 songinstatus=false
