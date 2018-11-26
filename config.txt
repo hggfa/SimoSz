@@ -1,6 +1,0 @@
-﻿token=NTE2NjAyMzQzNDUwNzM4Njk5.Dt2OMw.ElLbtrgXDqEFOrV_7nXaBrfWeSs
-owner=419474365248438282 
-prefix=#
-game=uhelp
-stayinchannel=true
-songinstatus=false
