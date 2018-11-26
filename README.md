@@ -1,2 +1,1 @@
-# SimoSz
-bot 24h
+# Jmusic
