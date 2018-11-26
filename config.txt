@@ -1,6 +1,6 @@
-﻿token= NTE2NTQ1MzAwNzAyMjk4MTI0.Dt1N6A.A-p7GINy97lmnQ6ZVqXHBCK-g5Y
+token= NTE2NTQ1MzAwNzAyMjk4MTI0.Dt1N6A.A-p7GINy97lmnQ6ZVqXHBCK-g5Y
 owner=419474365248438282 
-prefix=#
-game=/uhelp
+prefix=*
+game=alpha
 stayinchannel=true
 songinstatus=false
